@@ -1,0 +1,3 @@
+# Core program uses only the Python standard library.
+# Optional - only needed for the line graph:
+matplotlib
