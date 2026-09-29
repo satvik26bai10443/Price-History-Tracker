@@ -24,6 +24,7 @@ Data Management module: store, add, update and delete price records safely (JSON
 Analytics module: summary statistics, trend detection, buy recommendation, product comparison.
 Visualization module: formatted summary, weekly bar chart and line graph.
 Input validation, outlier warnings for suspicious prices, and activity logging.
+
 Core program uses only the Python standard library.
 Optional - only needed for the line graph: matplotlib
 
